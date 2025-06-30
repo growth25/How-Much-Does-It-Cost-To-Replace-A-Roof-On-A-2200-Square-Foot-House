@@ -9,10 +9,9 @@ It covers:
 - FAQs for homeowners
 - City-specific estimate buttons
 - Call-to-action to get a free local quote
-https://github.com/growth25/How-Much-Does-It-Cost-To-Replace-A-Roof-On-A-2200-Square-Foot-House
 
 ## 🚀 Live Preview
-[View the Page on GitHub Pages](https://github.com/growth25/How-Much-Does-It-Cost-To-Replace-A-Roof-On-A-2200-Square-Foot-House)
+[visit the full site](https://roofingcontractorsrepairandreplacement.com)
 
 ## 💡 About the Project
 This static landing page is optimized for:
